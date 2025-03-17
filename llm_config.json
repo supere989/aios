@@ -1,0 +1,8 @@
+{
+    "primary_url": "http://10.150.1.8:4891/v1/chat/completions",
+    "backup_url": "http://10.150.1.8:4891/v1/chat/completions",
+    "timeout": 60,
+    "training_model": "deepseek-r1-distill-qwen-7b",
+    "environment_model": "qwen2.5-7b-instruct-1m"
+}
+

@@ -1,0 +1,5 @@
+{
+  "memory_size": "512M",
+  "disk_image": "aios.bin",
+  "display_mode": "gtk"
+}

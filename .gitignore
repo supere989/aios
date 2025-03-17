@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and temporary files
+*.log
+*.bak*
+*.backup
+*.broken
+.backup/
+*.bin
+
+# Environment and config
+*.env
+
+# Benchmark and test results
+benchmark_results.json
+capabilities_results.json
+test_file.txt
+
+# Training data
+suggestions.txt
+tool_changes.log
